@@ -1,6 +1,7 @@
 # Fillit
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/301d9ba71e6d45ef8c26019bfdd59f2f)](https://app.codacy.com/app/gde-pass/fillit?utm_source=github.com&utm_medium=referral&utm_content=gde-pass/fillit&utm_campaign=Badge_Grade_Dashboard)
+![https://img.shields.io/badge/Grade-100%2F100-green.svg](https://img.shields.io/badge/Grade-100%2F100-green.svg)
 
 Can you feel it ?
 
