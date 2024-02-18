@@ -1,10 +1,4 @@
 # Fillit
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/301d9ba71e6d45ef8c26019bfdd59f2f)](https://app.codacy.com/app/gde-pass/fillit?utm_source=github.com&utm_medium=referral&utm_content=gde-pass/fillit&utm_campaign=Badge_Grade_Dashboard)
-![https://img.shields.io/badge/Grade-100%2F100-green.svg](https://img.shields.io/badge/Grade-100%2F100-green.svg)
-
-Can you feel it ?
-
 ## Description
 Fillit est un projet vous permettant de découvrir et/ou de vous familiariser avec une problématique récurrente en programmation : la recherche d'un solution optimale parmi un très grand nombre de possibilités, dans un délai raisonnable. Dans le cas de ce projet, il s'agira d'agencer des Tetriminos entre eux et de déterminer le plus petit carré possible pouvant les accueillir.
 
